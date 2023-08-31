@@ -1,4 +1,0 @@
-Flask
-folium
-ibm_db
-requests
